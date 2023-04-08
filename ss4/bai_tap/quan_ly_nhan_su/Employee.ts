@@ -9,28 +9,30 @@ export class Employee {
         this._position = position;
     }
 
-    get name(): string {
+    getName(): string {
         return this._name;
     }
 
-    set name(value: string) {
+    setName(value: string) {
         this._name = value;
     }
 
-    get birthday(): string {
+    getBirthday(): string {
         return this._birthday;
     }
 
-    set birthday(value: string) {
+    setBirthday(value: string) {
         this._birthday = value;
     }
 
-    get position(): string {
+    getPosition(): string {
         return this._position;
     }
 
-    set position(value: string) {
+    setPosition(value: string) {
         this._position = value;
     }
-    
+    public toString(): string {
+        return `name : ${this._name} birthday ${this._birthday} position ${this._position}`;
+    }
 }
