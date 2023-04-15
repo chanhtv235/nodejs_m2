@@ -3,7 +3,10 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ss5/bai_tap/Triangle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss6/bai_tap/lop_hinh_hoc" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ss6/thuc_hanh/thuc_hanh1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ss6/thuc_hanh/thuc_hanh2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss9_stack_queue" vcs="Git" />
   </component>
 </project>
