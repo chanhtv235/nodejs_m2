@@ -2,6 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss12" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss13" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss14" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss15" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ss5/bai_tap/Triangle" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ss6/bai_tap/lop_hinh_hoc" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ss6/thuc_hanh/thuc_hanh1" vcs="Git" />
